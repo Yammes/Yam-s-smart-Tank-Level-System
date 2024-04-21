@@ -11,14 +11,14 @@ für z.B. Öl- / Rain-Tank &amp; Zisternen / Regentank
 
 Werte die gemessen bzw. berechnet werden:
 
-* Füllhöhe / Füllstand mm
-* Füllhöhe / Füllstand %
-* Volumen / Füllmenge ltr
-* Füllmenge / Volumen %
-* ! Reichweite_A: in Tagen ab 'jetzt' 
-* ! Reichweite_B: das End-Datum z.B. 29.02.2027 
+* Füllhöhe / Füllstand [mm]
+* Füllhöhe / Füllstand [%]
+* Volumen / Füllmenge [ltr]
+* Füllmenge / Volumen [%]
+* ! Reichweite_A: [dd] in Tagen ab 'jetzt' 
+* ! Reichweite_B: [dd.mm.YYYY] das End-Datum z.B. 29.02.2027 
   <- basierend auf User-Input-Verbrauchswerten
-* Delta-Level: Differenz (Füllstand bzw. FüllHöhe) bei 2 Tanks 
+* Delta-Level: [mm] Differenz (Füllstand bzw. FüllHöhe) bei 2 Tanks 
  -> evtl. Problem bei 'verbundenen Tanks' anzeigen!!
  
 neuer Absatz:
