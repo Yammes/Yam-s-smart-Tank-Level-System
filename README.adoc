@@ -25,5 +25,6 @@ neuer Absatz:
 
 include::subtext_1.adoc[tag=nurDasHier]
 
+include::subtext_1.adoc
 
 eof
