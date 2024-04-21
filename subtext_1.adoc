@@ -1,0 +1,46 @@
+Yams A frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text 
+frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text 
+frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text 
+frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text 
+frei Text frei Text frei Text frei Text frei Text frei Text frei Text frei Text 
+
+anderer Text anderer Text anderer Text anderer Text anderer Text anderer Text anderer Text 
+anderer Text anderer Text anderer Text anderer Text 
+anderer Text anderer Text anderer Text anderer Text anderer Text 
+anderer Text anderer Text anderer Text anderer Text anderer Text anderer Text 
+anderer Text anderer Text anderer Text anderer Text anderer Text anderer Text anderer Text 
+
+anderer Text 1 anderer Text 1 anderer Text 1 anderer Text 1 anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 anderer Text 1 
+anderer Text 1 anderer Text 1 anderer Text 1 anderer Text 1 
+
+// tag::nurDasHier[]
+==== Über3.1 Test-Überschrift
+....
+4 Punkte xx yy zz xx
+und eine NeW Zeile    // <1>
+noch eine Zeile       // normaler kommentar
+....
+<1> eine Erläuterung
+
+----
+4 Striche eins eins 
+----
+
+// end::nurDasHier[]
+
+----
+4 Striche zwo yy zz xx
+----
+
+anderer Text 3 anderer Text 3 anderer Text 3 
+anderer Text 3 anderer Text 3 anderer Text 3 
+anderer Text 3 anderer Text 3 
+anderer Text 3 
+anderer Text 3 
+anderer Text 3 anderer Text 3 anderer Text 3 
+anderer Text 3 anderer Text 3 anderer Text 3 
